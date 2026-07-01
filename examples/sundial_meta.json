@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "id": "310000000000101",
+      "page_name": "Sundial Skincare",
+      "ad_creative_link_titles": ["Dermatologist-tested. Actually gentle."],
+      "ad_creative_bodies": [
+        "Clinically proven to improve skin texture in 28 days. Sundial's barrier serum is certified vegan, backed by a 90-day money-back guarantee, and trusted by 40,000+ customers."
+      ],
+      "ad_creative_link_captions": ["sundial.example"],
+      "ad_creative_link_descriptions": ["No fragrance. No filler. Since 2021."],
+      "cta_type": "GET_OFFER",
+      "media_type": "IMAGE",
+      "ad_delivery_start_time": "2025-09-01",
+      "publisher_platforms": ["facebook", "instagram"],
+      "languages": ["en"]
+    },
+    {
+      "id": "310000000000102",
+      "page_name": "Sundial Skincare",
+      "ad_creative_link_titles": ["What nobody tells you about \"clean\" skincare"],
+      "ad_creative_bodies": [
+        "Most people get their routine wrong in the same three ways. Here's what our lab found after testing 1,200 formulas, and why we only ship one serum."
+      ],
+      "ad_creative_link_captions": ["sundial.example"],
+      "cta_type": "LEARN_MORE",
+      "media_type": "VIDEO",
+      "ad_delivery_start_time": "2026-03-15",
+      "ad_delivery_stop_time": "2026-04-28",
+      "publisher_platforms": ["facebook"],
+      "languages": ["en"]
+    }
+  ]
+}

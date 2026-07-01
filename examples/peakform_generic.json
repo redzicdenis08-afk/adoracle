@@ -1,0 +1,30 @@
+[
+  {
+    "id": "pf-0001",
+    "advertiser": "PeakForm Fitness",
+    "platform": "tiktok",
+    "headline": "The secret to a 20-minute full-body workout",
+    "body": "Say goodbye to two-hour gym sessions. PeakForm members went from skipping workouts to training 4x a week in just 30 days. Rated 4.8 by 2,300 members.",
+    "cta": "Start free trial",
+    "landing_url": "https://www.peakform.example/trial?src=tt",
+    "media_type": "video",
+    "first_seen": "2025-08-14",
+    "last_seen": "2026-05-30",
+    "active": true,
+    "languages": ["en"]
+  },
+  {
+    "id": "pf-0002",
+    "advertiser": "PeakForm Fitness",
+    "platform": "tiktok",
+    "headline": "Why do most home workout plans fail?",
+    "body": "87% of people quit their plan within 6 weeks. Ours adapts to your schedule instead of fighting it. No equipment, no hidden fees, cancel anytime.",
+    "cta": "Learn more",
+    "landing_url": "https://peakform.example/why",
+    "media_type": "video",
+    "first_seen": "2026-01-20",
+    "last_seen": "2026-03-02",
+    "active": false,
+    "languages": ["en"]
+  }
+]

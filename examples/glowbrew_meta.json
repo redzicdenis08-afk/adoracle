@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "id": "310000000000001",
+      "page_name": "GlowBrew Coffee",
+      "ad_creative_link_titles": ["Still drinking bitter coffee?"],
+      "ad_creative_bodies": [
+        "Tired of stale supermarket beans? GlowBrew roasts small-batch coffee and ships it within 48 hours of roasting. Join 12,000+ happy brewers and get 20% off your first bag."
+      ],
+      "ad_creative_link_captions": ["glowbrew.example"],
+      "ad_creative_link_descriptions": ["Freshly roasted. Delivered fast."],
+      "cta_type": "SHOP_NOW",
+      "media_type": "IMAGE",
+      "ad_delivery_start_time": "2026-02-10",
+      "publisher_platforms": ["facebook", "instagram"],
+      "languages": ["en"]
+    },
+    {
+      "id": "310000000000002",
+      "page_name": "GlowBrew Coffee",
+      "ad_creative_link_titles": ["The secret to cafe-quality espresso at home"],
+      "ad_creative_bodies": [
+        "Here's why baristas cup every lot twice before it earns the GlowBrew label. Premium, hand-crafted roasts with a money-back guarantee, shipped same-day."
+      ],
+      "ad_creative_link_captions": ["glowbrew.example"],
+      "ad_creative_link_descriptions": ["Roasted this week, not this quarter."],
+      "cta_type": "ORDER_NOW",
+      "media_type": "VIDEO",
+      "ad_delivery_start_time": "2025-11-03",
+      "publisher_platforms": ["facebook"],
+      "languages": ["en"]
+    },
+    {
+      "id": "310000000000003",
+      "page_name": "GlowBrew Coffee",
+      "ad_creative_link_titles": ["Last chance: holiday roast ends Sunday"],
+      "ad_creative_bodies": [
+        "Our limited edition holiday roast is almost gone. Only 400 bags left, then it's gone until next year. Free shipping this weekend."
+      ],
+      "ad_creative_link_captions": ["glowbrew.example"],
+      "cta_type": "SHOP_NOW",
+      "media_type": "CAROUSEL",
+      "ad_delivery_start_time": "2025-12-01",
+      "ad_delivery_stop_time": "2025-12-24",
+      "publisher_platforms": ["instagram"],
+      "languages": ["en"]
+    }
+  ]
+}
