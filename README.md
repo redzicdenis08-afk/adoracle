@@ -230,6 +230,10 @@ The private Adoracle SaaS adds: multi-source scraping and ingestion pipelines, m
 
 Issues and PRs welcome — see [CONTRIBUTING.md](CONTRIBUTING.md). Run the suite with `npm run build && npm test`.
 
+## Repository health
+
+This repo now includes GitHub issue templates, a PR checklist, Dependabot checks for GitHub Actions, and a public boundary checklist in [docs/REPO_HEALTH.md](docs/REPO_HEALTH.md).
+
 ## License
 
 [MIT](LICENSE) © Denis Redzic
