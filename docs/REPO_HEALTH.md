@@ -1,6 +1,7 @@
 # Repository Health
 
 **Project:** Adoracle
+**Last Verified:** July 2026
 
 **Type:** TypeScript reference engine
 
